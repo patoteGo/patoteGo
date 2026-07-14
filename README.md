@@ -29,7 +29,7 @@ FRONTEND SYSTEMS        React, Next.js, Vue, TypeScript, accessible responsive i
 <tr>
 <td width="50%" valign="top">
 
-### 🐞 [BugSnap](https://github.com/patoteGo/oops-2-issues-exntension)
+### 🐞 [Oops 2 Issues Extension](https://github.com/patoteGo/oops-2-issues-extension)
 
 A Manifest V3 Chrome side-panel extension that turns screenshots, selected context, markdown, files, and checklists into structured project tasks.
 
@@ -121,7 +121,7 @@ A full-stack nutrition and health PWA with secure accounts, meal planning, progr
 
 I'm interested in teams solving meaningful product and engineering problems—especially **senior full-stack**, **frontend platform**, **developer tooling**, and **applied AI** work.
 
-The best place to reach me is [LinkedIn](https://www.linkedin.com/in/patricio-gonzalez-fullstack-developer/). If you're reviewing my work for a role, start with [BugSnap](https://github.com/patoteGo/oops-2-issues-exntension), [Pi Extensions](https://github.com/patoteGo/pi-extensions), and the [Speech-to-Text Service](https://github.com/patoteGo/speech-to-text).
+The best place to reach me is [LinkedIn](https://www.linkedin.com/in/patricio-gonzalez-fullstack-developer/). If you're reviewing my work for a role, start with [Oops 2 Issues Extension](https://github.com/patoteGo/oops-2-issues-extension), [Pi Extensions](https://github.com/patoteGo/pi-extensions), and the [Speech-to-Text Service](https://github.com/patoteGo/speech-to-text).
 
 <div align="center">
 
